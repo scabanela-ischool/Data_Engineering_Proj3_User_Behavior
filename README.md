@@ -113,10 +113,6 @@ A NoSQL graph database such as Neo4j would be a logical choice to analyze a syst
 
 The executives would also like some suggestions on how a NoSQL document store such as MongoDB and/or a NoSQL in-memory key-value store such as Redis might be used in future systems related to the hybrid deliveries.
 
-# Following this is a section for the "Coding Part" and a section following that for the "Presentation Part"
-
-Please ensure you read the entire instructions!
-
 ## Coding Part
 
 The coding part is due in week 13, on the day of your class meeting, at 11:59 pm.
